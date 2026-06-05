@@ -434,5 +434,3 @@ model = ChatOllama(model="llama3.2")
 - [FastMCP Documentation](https://gofastmcp.com/)
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
 - [LangGraph Human-in-the-Loop Guide](https://langchain-ai.github.io/langgraph/concepts/human_in_the_loop/)
-#   M C P _ T a s k M a n a g e r  
- 
